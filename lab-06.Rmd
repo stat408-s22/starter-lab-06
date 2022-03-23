@@ -1,6 +1,11 @@
 ---
-title: "Lab 08 - University of Edinburgh Art Collection"
-author: "Insert your name here"
+title: "Lab 06 - University of Edinburgh Art Collection"
+author: |
+        | Insert team name here:
+        | Insert team member 1 here
+        | Insert team member 2 here
+        | Insert team member 3 here
+        | Insert team member 4 here
 date: "Insert date here"
 output: github_document
 ---
@@ -17,9 +22,9 @@ library(skimr)
 Fill in the blanks and required information to complete the code in the three
 R script files: 
 
-* Exercises 1--5: 01-scrape-page-one.R
-* Exercise 6: 02-scrape-page-function.R
-* Exercises 7--9: 03-scrape-page-many.R
+* Exercises 1--5: `01-scrape-page-one.R`
+* Exercise 6: `02-scrape-page-function.R`
+* Exercises 7--9: `03-scrape-page-many.R`
 
 After completing the code and running these scripts, you should have a csv file
 named "uoe-art.csv" that stores the scraped data in the "data" folder.
